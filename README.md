@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **huutai1010/huutai1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,19 +15,14 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Huu Tai</h1>
+<h1 align="center">I'm Huu Tai</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
+<h3 align="center">Hello world </h3>
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
-
-- 🌱 I’m currently learning **MERN Stack.**
+- ✍ I'm a student of: [FPT University Ho Chi Minh](https://hcmuni.fpt.edu.vn) (FPT).
 
 
-## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## 📫 How to contact me:
 
 <p align="center">
   <a href="" target="_blank">
@@ -40,45 +34,25 @@ Here are some ideas to get you started:
   <a href="" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
   <a href="" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
   </a>
 </p>
 
-## Skills:
+## Languages:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/swift.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java.png"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 </p>
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
+<p align="center"> 
+   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="50%"/>
+</p>
+      
+   
 
