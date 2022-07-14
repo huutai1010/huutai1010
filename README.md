@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--<h3 align="center">Hello world </h3>-->
 
 - ✍ I'm a student of: [FPT University Ho Chi Minh](https://hcmuni.fpt.edu.vn) (FPT).
-- I'm a Mobile Developer
+- 🌱  Have a nice day
 
 
 
