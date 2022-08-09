@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - ✍ I'm a student of: [FPT University Ho Chi Minh](https://hcmuni.fpt.edu.vn) (FPT).
 - 🌱  Have a nice day
-- Mobile Engineer
 
 
 
