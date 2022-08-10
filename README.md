@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-<!--<h1 align="center">I'm Huu Tai</h1>-->
-<!--<h3 align="center">Hello world </h3>-->
 
-- ✍ I'm a student of: [FPT University Ho Chi Minh](https://hcmuni.fpt.edu.vn) (FPT).
-- 🌱  Have a nice day
+- What's up my g
 
 
 
